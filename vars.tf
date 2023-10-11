@@ -11,3 +11,5 @@ variable "port_no" {
 }
 variable "engine_version" {}
 variable "kms_arn" {}
+variable "instance_count" {}
+variable "instance_class" {}
